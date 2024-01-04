@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Transparent)
 
-![header](https://capsule-render.vercel.app/api?color=yellow)
+![header](https://capsule-render.vercel.app/api?color=_custom_gradient)
 
 ![header](https://capsule-render.vercel.app/api?text=always_Go)
 
