@@ -1,2 +1,2 @@
-![header](https://capsule-render.vercel.app/api?text=always_Go?color=yellow)
+![header](https://capsule-render.vercel.app/api?type=soft&text=always_Go&color=yellow)
 
