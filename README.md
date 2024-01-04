@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=Soft)
+(https://capsule-render.vercel.app/api?type=Soft)
 
 ![header](https://capsule-render.vercel.app/api?color=_custom_gradient)
 
-![header](https://capsule-render.vercel.app/api?text=always_Go)
+(https://capsule-render.vercel.app/api?text=always_Go)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tdc00161&langs_count=8)](https://github.com/tdc00161/github-readme-stats)
 
