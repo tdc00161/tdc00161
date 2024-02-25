@@ -24,4 +24,5 @@
 	 <img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white" />
   	<img src="https://img.shields.io/badge/laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
    	<img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white" />
+	<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white" />
 </div>
